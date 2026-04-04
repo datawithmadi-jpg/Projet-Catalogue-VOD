@@ -61,7 +61,7 @@ Le script crée les 7 tables + insertion dans le bon ordre :
 
 ---
 
-## 📺 Série YouTube / TikTok
+## 📺 TikTok
 
 Ce projet est le fil rouge de la série **SQL Débutant** sur Amescript.
 
