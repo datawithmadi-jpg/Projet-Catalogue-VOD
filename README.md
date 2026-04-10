@@ -67,10 +67,10 @@ Ce projet est le fil rouge de la série **SQL Débutant** sur Amescript.
 
 | Short | Sujet |
 |-------|-------|
-| Short A | Présentation du projet + modèle de données |
-| Short B | Création des tables 1 à 4 |
-| Short C | Création des tables clients et factures |
-| Short D | Création de la table locations + GitHub Portfolio |
+| Short 1/4 | Présentation du projet + modèle de données |
+| Short 2/4 | Création des tables 1 à 4 |
+| Short 3/4 | Création des tables clients et factures |
+| Short 4/4 | Création de la table locations + GitHub Portfolio |
 
 👉 Retrouvez tous les Shorts sur [TikTok](https://www.tiktok.com/@amescript?_r=1&_t=ZN-92xDkswUdZG) · [YouTube](https://youtube.com/@ame.script?si=uf8Vm8hx21DMsLSw)
 
